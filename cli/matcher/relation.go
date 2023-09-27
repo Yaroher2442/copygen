@@ -1,7 +1,7 @@
 package matcher
 
 import (
-	"github.com/switchupcb/copygen/cli/models"
+	"github.com/Yaroher2442/copygen/cli/models"
 )
 
 // RemoveUnpointedFields removes unpointed fields from a Generator.

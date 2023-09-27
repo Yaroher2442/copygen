@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/switchupcb/copygen/cli/models"
+	"github.com/Yaroher2442/copygen/cli/models"
 	"gopkg.in/yaml.v3"
 )
 

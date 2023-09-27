@@ -44,7 +44,7 @@ linters-settings:
       # - fieldalignment
   wrapcheck:
     ignorePackageGlobs:
-      - github.com/switchupcb/copygen/cli/generator/*
+      - github.com/Yaroher2442/copygen/cli/generator/*
   revive:
     rules:
       - name: unused-parameter

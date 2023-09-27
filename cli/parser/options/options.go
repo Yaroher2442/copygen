@@ -4,7 +4,7 @@ package options
 import (
 	"regexp"
 
-	"github.com/switchupcb/copygen/cli/models"
+	"github.com/Yaroher2442/copygen/cli/models"
 )
 
 // Option represents an option applied to functions and fields.

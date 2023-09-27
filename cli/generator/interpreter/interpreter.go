@@ -7,7 +7,7 @@ import (
 	"os"
 	"reflect"
 
-	"github.com/switchupcb/copygen/cli/generator/interpreter/extract"
+	"github.com/Yaroher2442/copygen/cli/generator/interpreter/extract"
 	"github.com/switchupcb/yaegi/interp"
 	"github.com/switchupcb/yaegi/stdlib"
 )

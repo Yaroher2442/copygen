@@ -2,7 +2,7 @@
 package matcher
 
 import (
-	"github.com/switchupcb/copygen/cli/models"
+	"github.com/Yaroher2442/copygen/cli/models"
 )
 
 // Match matches the fields of a parsed generator.

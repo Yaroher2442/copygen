@@ -5,8 +5,8 @@ import (
 	"go/ast"
 	"go/types"
 
-	"github.com/switchupcb/copygen/cli/models"
-	"github.com/switchupcb/copygen/cli/parser/options"
+	"github.com/Yaroher2442/copygen/cli/models"
+	"github.com/Yaroher2442/copygen/cli/parser/options"
 )
 
 // parseFunctions parses the AST for functions in the setup file.

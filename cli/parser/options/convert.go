@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/switchupcb/copygen/cli/models"
+	"github.com/Yaroher2442/copygen/cli/models"
 )
 
 const (

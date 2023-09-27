@@ -5,8 +5,8 @@ import (
 	"go/types"
 	"strings"
 
+	"github.com/Yaroher2442/copygen/cli/models"
 	"github.com/fatih/structtag"
-	"github.com/switchupcb/copygen/cli/models"
 )
 
 // parseField parses a types.Type into a *models.Field recursively.

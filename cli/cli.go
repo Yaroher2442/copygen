@@ -6,10 +6,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/switchupcb/copygen/cli/config"
-	"github.com/switchupcb/copygen/cli/generator"
-	"github.com/switchupcb/copygen/cli/matcher"
-	"github.com/switchupcb/copygen/cli/parser"
+	"github.com/Yaroher2442/copygen/cli/config"
+	"github.com/Yaroher2442/copygen/cli/generator"
+	"github.com/Yaroher2442/copygen/cli/matcher"
+	"github.com/Yaroher2442/copygen/cli/parser"
 )
 
 // Environment represents the copygen environment.

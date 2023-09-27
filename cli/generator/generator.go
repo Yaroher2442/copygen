@@ -9,9 +9,9 @@ import (
 	"path/filepath"
 	tmpl "text/template"
 
-	"github.com/switchupcb/copygen/cli/generator/interpreter"
-	"github.com/switchupcb/copygen/cli/generator/template"
-	"github.com/switchupcb/copygen/cli/models"
+	"github.com/Yaroher2442/copygen/cli/generator/interpreter"
+	"github.com/Yaroher2442/copygen/cli/generator/template"
+	"github.com/Yaroher2442/copygen/cli/models"
 	"golang.org/x/tools/imports"
 )
 
