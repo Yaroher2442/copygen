@@ -1,9 +1,8 @@
 package main
 
 import (
+	"github.com/Yaroher2442/copygen/cli"
 	"os"
-
-	"github.com/switchupcb/copygen/cli"
 )
 
 func main() {
