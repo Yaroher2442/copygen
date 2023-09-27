@@ -1,4 +1,5 @@
-module github.com/switchupcb/copygen
+module github.com/Yaroher2442/copygen
+
 
 go 1.20
 
